@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "InterMineR"]
-	path = InterMineR
-	url = https://github.com/intermine/interminer
-	shallow = true
-	registered = true
